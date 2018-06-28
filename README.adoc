@@ -1,0 +1,21 @@
+= A Zero-Dependency Mapping Library - MVEL Implementation
+:toc: macro
+
+[.float-group]
+--
+[.left]
+image::https://travis-ci.com/dmeiners88/mapping-impl-mvel.svg?branch=develop["Build Status", link="https://travis-ci.com/dmeiners88/mapping-impl-mvel"]
+
+[.left]
+image::https://sonarcloud.io/api/project_badges/measure?project=de.dmeiners.mapping%3Amapping-impl-mvel&metric=alert_status[link="https://sonarcloud.io/api/project_badges/measure?project=de.dmeiners.mapping%3Amapping-impl-mvel&metric=alert_status"]
+--
+
+This is the MVFLEX Expression Language Implementation module for the Zero-Dependency Mapping Library.
+
+toc::[]
+
+== Features
+* Implements the https://github.com/dmeiners88/mapping-api[Mapping API] by delegating to the MVEL scripting engine
+* Zero dependencies
+
+CAUTION: This project is experimental and should not be used in production environments.
