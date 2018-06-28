@@ -7,7 +7,7 @@
 image::https://travis-ci.com/dmeiners88/mapping-impl-mvel.svg?branch=develop["Build Status", link="https://travis-ci.com/dmeiners88/mapping-impl-mvel"]
 
 [.left]
-image::https://sonarcloud.io/api/project_badges/measure?project=de.dmeiners.mapping%3Amapping-impl-mvel&metric=alert_status[link="https://sonarcloud.io/api/project_badges/measure?project=de.dmeiners.mapping%3Amapping-impl-mvel&metric=alert_status"]
+image::https://sonarcloud.io/api/project_badges/measure?project=de.dmeiners.mapping%3Amapping-impl-mvel&metric=alert_status[link="https://sonarcloud.io/dashboard?id=de.dmeiners.mapping%3Amapping-impl-mvel"]
 --
 
 This is the MVFLEX Expression Language Implementation module for the Zero-Dependency Mapping Library.
