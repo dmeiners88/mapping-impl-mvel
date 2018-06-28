@@ -12,6 +12,16 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <shadedPrefix>de.dmeiners.mapping.impl.mvel.shaded</shadedPrefix>
     </properties>
+    <repositories>
+        <repository>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+            <id>jcenter</id>
+            <name>JCenter</name>
+            <url>https://jcenter.bintray.com</url>
+        </repository>
+    </repositories>
     <dependencyManagement>
         <dependencies>
             <dependency>
